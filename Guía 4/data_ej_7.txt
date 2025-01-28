@@ -1,0 +1,37 @@
+Top 5 equipos con mejores ataques:
+              Equipo  Medias Ataques
+22       River Plate        0.450008
+10    Def y Justicia        0.146939
+7       Boca Juniors        0.140548
+21       Racing Club        0.128208
+11  Estudiantes (LP)        0.108263
+
+Top 5 equipos con mejores defensas:
+          Equipo  Medias Defensas
+22   River Plate        -0.207339
+7   Boca Juniors        -0.189416
+24   San Lorenzo        -0.123728
+1     Argentinos        -0.119644
+4       Banfield        -0.104741
+
+
+
+Goles esperados en el partido Boca Juniors vs River Plate: 1.2 - 1.3
+Goles esperados en el partido River Plate vs Boca Juniors: 1.6 - 0.9
+
+
+
+Partido Ida
+Probabilidad de que gane Independiente: 0.375
+Probabilidad de que gane Racing Club: 0.333
+Probabilidad de empate: 0.292
+
+Partido Vuelta
+Probabilidad de que gane Racing Club: 0.460
+Probabilidad de que gane Independiente: 0.258
+Probabilidad de empate: 0.282
+
+
+Porcentaje de aciertos: 30.77%
+['Local', 'Local', 'Local', 'Local', 'Local', 'Local', 'Local', 'Visitante', 'Local', 'Local', 'Local', 'Local', 'Local']
+['Empate', 'Empate', 'Visitante', 'Empate', 'Local', 'Visitante', 'Empate', 'Local', 'Empate', 'Local', 'Local', 'Visitante', 'Local']
